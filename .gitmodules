@@ -1,0 +1,3 @@
+[submodule "exampleCode"]
+	path = exampleCode
+	url = git@github.com:kalickiPawel/exampleCode.git
